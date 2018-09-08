@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     height: 800px;
-    background-image: linear-gradient(#ff66b3 , #ff33ff);
+    background-image: linear-gradient(#002db3 , #1a53ff);
     background-size: cover;
     background-position: center;
     color: azure;
@@ -45,7 +45,7 @@ body {
     margin: auto;
     width: 160px;
     height: 3px;
-    background-image: linear-gradient(#ff66b3 , #ff33ff);
+    background-image: linear-gradient(#002db3 , #1a53ff);
     margin-top: 20px;
 
 }
@@ -73,12 +73,12 @@ body {
     font-family: monospace;
     text-transform: uppercase;
     text-align: center;
-    color: black;
+    color: #000066;
 }
 
 .social{
     font-family: monospace;
-    color: black;
+    color: #000066;
     text-align: justify;
     margin-left: 30px; 
 }
@@ -86,9 +86,8 @@ body {
 .p1 {
     width: 35px;
     height: auto;
-    padding: 10px;
     text-align: center;
-    margin-left: 20px;
+    margin-left: 30px;
     margin-right: auto;
     text-align: center;
     vertical-align: middle;
