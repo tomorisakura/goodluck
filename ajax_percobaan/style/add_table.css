@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    font-family: montserrat;
+}
+.tengah{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.head{
+    width: 100%;
+    height: 80px;
+    background-image: linear-gradient(to right,#8E2DE2,#4A00E0);
+    text-align: center;
+}
+
+.head h3{
+    padding-top: 30px;
+    padding-left: 20px;
+    color: white;
+}
+
+.box_btn{
+    height: 30px;
+    width: 300px;
+}
+
+table , th, td {
+    padding: 20px;
+}
+
+#btn_simpan{
+    height: 30px;
+    border: none;
+    border-radius: 40px;
+    background-image: linear-gradient(to right, #8E2DE2,#4A00E0);
+    color: white;
+}

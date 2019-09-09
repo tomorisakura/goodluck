@@ -1,0 +1,61 @@
+*{
+    font-family: montserrat;
+}
+
+body{
+    background-image: url(../img/wall2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 200px;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.ava_back{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    background-color: #3C3B3F;
+    align-items: center;
+}
+
+.form{
+    width: 250px;
+    height: 390px;
+    background-color: #3C3B3F;
+    color: white;
+    font-family: Helvetica;
+    padding: 30px 30px;
+    font-size: 12px;
+}
+
+.tengah{
+    margin-left: 43%;
+    margin-top: 10%;
+}
+
+#login_btn{
+    margin-top: 20px;
+    font-family: Helvetica;
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-image: linear-gradient(to right,#8E2DE2,#4A00E0);
+    border-radius: 50px;
+    border: none;
+}
+
+.loglog{
+    height: 30px;
+    width: 100%;
+    border-radius: 30px;
+    border: white;
+    padding-left: 5px;
+    background: white;
+    text-align: center;
+}
